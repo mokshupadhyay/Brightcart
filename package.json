@@ -1,0 +1,9 @@
+{
+  "name": "brightcart",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Brightcart: a tiny online store used as the demo product for FlowBrief (Codegeist 2026).",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
